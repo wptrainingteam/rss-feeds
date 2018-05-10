@@ -21,7 +21,8 @@ _These are just examples. Please do not feel that this list is required, or limi
 
 ## Prerequisite Skills
 
-*   Basic knowledge of ...
+*   Basic knowledge of WordPress
+*   Basic knowledge of web browsers
 
 * * *
 
