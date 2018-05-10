@@ -2,7 +2,7 @@
 
 ## Description
 
-In this module you'll learn about ...
+In this module you'll learn about what RSS feeds are and how they function within WordPress.
 
 * * *
 
