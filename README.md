@@ -2,7 +2,7 @@
 
 ## Description
 
-In this module you'll learn about ...
+In this module you'll learn about what RSS feeds are and how they function within WordPress.
 
 * * *
 
@@ -10,11 +10,10 @@ In this module you'll learn about ...
 
 After completing this lesson, students will be able to ...
 
-*   Show...
-*   Identify...
-*   List...
-*   Install...
-*   Write...
+*   Define RSS feed
+*   Identify where to find a site's RSS feed
+*   List the different types of feeds built into WordPress
+*   Explain how an RSS feed can boost traffic to a site
 
 _These are just examples. Please do not feel that this list is required, or limit yourself to this list._
 
@@ -22,7 +21,8 @@ _These are just examples. Please do not feel that this list is required, or limi
 
 ## Prerequisite Skills
 
-*   Basic knowledge of ...
+*   Basic knowledge of WordPress
+*   Basic knowledge of web browsers
 
 * * *
 
